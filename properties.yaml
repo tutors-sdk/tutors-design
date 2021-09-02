@@ -1,0 +1,114 @@
+slack: https://tutors-ts-group.slack.com/messages/CCKS0HR0Q
+moodle: https://moodle.wit.ie/course/view.php?id=118143&section=3
+youtube: https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo
+credits: Emma Kidney, RedHat
+ignorepin : 1997
+ignore:
+  - topic-04-units
+  - topic-03-media
+  - topic-01-simple
+  
+iconset:
+  programHome:
+    icon: uil:estate
+    colour: warning
+  moduleHome:
+    icon: uil:books
+    colour: warning
+  slack:
+    icon: uil:slack-alt
+    colour: error
+  moodle:
+    icon: uil:graduation-cap
+    colour: warning
+  youtube:
+    icon: uil:tv-retro
+    colour: error
+  video:
+    icon: uil:tv-retro
+    colour: error
+  zoom:
+    icon: uil:webcam
+    colour: info
+  course:
+    icon: uil:books
+    colour: info
+  topic:
+    icon: uil:book-alt
+    colour: info
+  unit:
+    icon: uil:book-open
+    colour: success
+  talk:
+    icon: uil:presentation
+    colour: info
+  reference:
+    icon: uil:notebooks
+    colour: warning
+  lab:
+    icon: uil:flask
+    colour: success
+  archive:
+    icon: uil:archive-alt
+    colour: info
+  web:
+    icon: uil:link
+    colour: info
+  github:
+    icon: uil:github-alt
+    colour: warning
+  panelvideo:
+    icon: uil:tv-retro
+    colour: error
+  left:
+    icon: uil:arrow-circle-left
+    colour: success
+  right:
+    icon: uil:arrow-circle-right
+    colour: success
+  print:
+    icon: uil:print
+    colour: success
+  rotate:
+    icon: uil:process
+    colour: success
+  download:
+    icon: uil:download-alt
+    colour: success
+  fullScreen:
+    icon: uil:expand-arrows-alt
+    colour: success
+  expand:
+    icon: uil:expand-arrows-alt
+    colour: success
+  tutorsTime:
+    icon: uil:hourglass
+    colour: info
+  timeExport:
+    icon: uil:file-export
+    colour: success
+  live:
+    icon: uil:clock-nine
+    colour: success
+  search:
+    icon: uil:search-alt
+    colour: info
+  tutors:
+    icon: la:home
+    colour: info
+  logout:
+    icon: uil:exit
+    colour: error
+  dark:
+    icon: uil:eye
+    colour: warning
+  toc:
+    icon: la:bars
+  workshop:
+    icon: la:home
+  compacted:
+    icon: la:grip-vertical
+  expanded:
+    icon: la:grip-horizontal
+  default:
+    icon: la:home
