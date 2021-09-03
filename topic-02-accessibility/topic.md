@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: ic:twotone-content-paste-search
+  type: openmoji:eye-in-speech-bubble
 
   color: pink
 
