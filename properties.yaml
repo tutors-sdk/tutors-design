@@ -14,13 +14,13 @@ iconset:
     colour: warning
   moduleHome:
     icon: uil:books
-    colour: purple
+    colour: warning
   slack:
     icon: uil:slack-alt
     colour: error
   moodle:
     icon: uil:graduation-cap
-    colour: warning
+    colour: error
   youtube:
     icon: uil:tv-retro
     colour: error
@@ -32,7 +32,7 @@ iconset:
     colour: info
   course:
     icon: uil:books
-    colour: info
+    colour: warning
   topic:
     icon: uil:book-alt
     colour: info
@@ -41,7 +41,7 @@ iconset:
     colour: success
   talk:
     icon: uil:presentation
-    colour: info
+    colour: success
   reference:
     icon: uil:notebooks
     colour: warning
@@ -50,7 +50,7 @@ iconset:
     colour: success
   archive:
     icon: uil:archive-alt
-    colour: info
+    colour: success
   web:
     icon: uil:link
     colour: info
@@ -92,7 +92,7 @@ iconset:
     colour: success
   search:
     icon: uil:search-alt
-    colour: info
+    colour: warning
   tutors:
     icon: la:home
     colour: info
