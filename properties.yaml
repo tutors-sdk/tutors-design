@@ -14,7 +14,7 @@ iconset:
     colour: warning
   moduleHome:
     icon: uil:books
-    colour: warning
+    colour: purple
   slack:
     icon: uil:slack-alt
     colour: error
