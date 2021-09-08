@@ -85,7 +85,7 @@ iconset:
     icon: fluent:share-close-tray-20-filled
     colour: success
   fullScreen:
-    icon:fluent:full-screen-maximize-20-filled
+    icon: fluent:full-screen-maximize-20-filled
     colour: success
   expand:
     icon: fluent:expand-up-right-20-filled
@@ -120,4 +120,4 @@ iconset:
   expanded:
     icon: la:grip-horizontal
   default:
-    fluent:home-20-filled
+    icon: fluent:home-20-filled
