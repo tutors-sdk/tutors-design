@@ -10,16 +10,16 @@ ignore:
   
 iconset:
   programHome:
-    icon: fluent:home-16-filled
+    icon: fluent:home-20-filled
     colour: warning
   moduleHome:
-    icon: fluent:home-16-filled
+    icon: fluent:home-20-filled
     colour: warning
   slack:
     icon: logos:slack-icon
     colour: error
   moodle:
-    icon: fluent:hat-graduation-12-filled
+    icon: fluent:hat-graduation-20-filled
     colour: error
   youtube:
     icon: fluent:video-clip-20-filled
@@ -31,13 +31,13 @@ iconset:
     icon: fluent:chat-video-24-filled
     colour: info
   course:
-    Icon: fluent:backpack-16-filled
+    icon: fluent:backpack-16-filled
     colour: warning
   topic:
     icon: fluent:book-20-filled
     colour: info
   unit:
-    icon: fluent:attach-12-filled
+    icon: fluent:attach-20-filled
     colour: success
 # course:
 #   icon: uil:books
