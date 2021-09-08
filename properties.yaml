@@ -10,105 +10,114 @@ ignore:
   
 iconset:
   programHome:
-    icon: uil:estate
+    icon: fluent:home-16-filled
     colour: warning
   moduleHome:
-    icon: uil:books
+    icon: fluent:home-16-filled
     colour: warning
   slack:
-    icon: uil:slack-alt
+    icon: logos:slack-icon
     colour: error
   moodle:
-    icon: uil:graduation-cap
+    icon: fluent:hat-graduation-12-filled
     colour: error
   youtube:
-    icon: uil:tv-retro
+    icon: fluent:video-clip-20-filled
     colour: error
   video:
-    icon: uil:tv-retro
+    icon: fluent:video-clip-20-filled
     colour: error
   zoom:
-    icon: uil:webcam
+    icon: fluent:chat-video-24-filled
     colour: info
   course:
-    icon: uil:books
+    Icon: fluent:backpack-16-filled
     colour: warning
   topic:
-    icon: uil:book-alt
+    icon: fluent:book-20-filled
     colour: info
   unit:
-    icon: uil:book-open
+    icon: fluent:attach-12-filled
     colour: success
+# course:
+#   icon: uil:books
+#   colour: warning
+# topic:
+#   icon: uil:book-alt
+#   colour: info
+# unit:
+#   icon: uil:book-open
+#   colour: success
   talk:
-    icon: uil:presentation
+    icon: fluent:chart-person-20-regular
     colour: success
   reference:
     icon: uil:notebooks
     colour: warning
   lab:
-    icon: uil:flask
+    icon: fluent:beaker-20-filled
     colour: success
   archive:
-    icon: uil:archive-alt
+    icon: fluent:archive-20-filled
     colour: success
   web:
-    icon: uil:link
+    icon: fluent:link-square-20-filled
     colour: info
   github:
     icon: uil:github-alt
     colour: warning
   panelvideo:
-    icon: uil:tv-retro
+    icon: fluent:video-clip-20-filled
     colour: error
   left:
-    icon: uil:arrow-circle-left
+    icon: fluent:arrow-circle-left-20-filled
     colour: success
   right:
-    icon: uil:arrow-circle-right
+    icon: fluent:arrow-circle-right-20-filled
     colour: success
   print:
-    icon: uil:print
+    icon: fluent:print-20-filled
     colour: success
   rotate:
-    icon: uil:process
+    icon: fluent:arrow-rotate-clockwise-20-filled
     colour: success
   download:
-    icon: uil:download-alt
+    icon: fluent:share-close-tray-20-filled
     colour: success
   fullScreen:
-    icon: uil:expand-arrows-alt
+    icon:fluent:full-screen-maximize-20-filled
     colour: success
   expand:
-    icon: uil:expand-arrows-alt
+    icon: fluent:expand-up-right-20-filled
     colour: success
   tutorsTime:
-    icon: uil:hourglass
+    icon: fluent:timer-20-filled
     colour: info
   timeExport:
-    icon: uil:file-export
+    icon: fluent:arrow-export-ltr-20-filled
     colour: success
   live:
-    icon: uil:clock-nine
+    icon: fluent:live-20-filled
     colour: success
   search:
-    icon: uil:search-alt
+    icon: fluent:search-20-filled
     colour: warning
   tutors:
-    icon: la:home
+    icon: fluent:home-person-20-filled
     colour: info
   logout:
-    icon: uil:exit
+    icon: fluent:sign-out-20-filled
     colour: error
   dark:
-    icon: uil:eye
+    icon: fluent:eye-show-20-filled
     colour: warning
   toc:
-    icon: la:bars
+    Icon: fluent:library-20-filled
   workshop:
-    icon: la:home
+    icon: fluent:apps-20-filled
   compacted:
     icon: la:grip-vertical
   expanded:
     icon: la:grip-horizontal
   default:
-    icon: la:home
+    fluent:home-20-filled
