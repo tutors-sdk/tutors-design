@@ -11,16 +11,16 @@ ignore:
 iconset:
   programHome:
     icon: fluent:home-20-filled
-    colour: warning
+    colour: success
   moduleHome:
     icon: fluent:home-20-filled
-    colour: warning
+    colour: success
   slack:
     icon: logos:slack-icon
     colour: error
   moodle:
     icon: fluent:hat-graduation-20-filled
-    colour: error
+    colour: warning
   youtube:
     icon: fluent:video-clip-20-filled
     colour: error
@@ -32,13 +32,13 @@ iconset:
     colour: info
   course:
     icon: fluent:backpack-16-filled
-    colour: warning
+    colour: success
   topic:
     icon: fluent:book-20-filled
     colour: info
   unit:
     icon: fluent:attach-20-filled
-    colour: success
+    colour: info
 # course:
 #   icon: uil:books
 #   colour: warning
@@ -50,7 +50,7 @@ iconset:
 #   colour: success
   talk:
     icon: fluent:chart-person-20-regular
-    colour: success
+    colour: info
   reference:
     icon: uil:notebooks
     colour: warning
@@ -59,7 +59,7 @@ iconset:
     colour: success
   archive:
     icon: fluent:archive-20-filled
-    colour: success
+    colour: info
   web:
     icon: fluent:link-square-20-filled
     colour: info
@@ -101,7 +101,7 @@ iconset:
     colour: success
   search:
     icon: fluent:search-20-filled
-    colour: warning
+    colour: info
   tutors:
     icon: fluent:home-person-20-filled
     colour: info
