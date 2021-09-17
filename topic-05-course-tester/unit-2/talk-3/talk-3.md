@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: icon-park-outline:instruction
+  type: icon-park-outline:computer
 
   color: success
 

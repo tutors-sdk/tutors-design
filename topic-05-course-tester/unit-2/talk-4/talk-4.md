@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: icon-park-outline:setting
+  type: icon-park-outline:database-code
 
   color: success
 

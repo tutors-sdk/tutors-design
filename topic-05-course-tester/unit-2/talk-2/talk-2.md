@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: icon-park-outline:universal
+  type: icon-park-outline:connect
 
   color: success
 
