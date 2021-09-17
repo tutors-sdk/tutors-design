@@ -4,11 +4,10 @@ icon:
 
   type: icon-park-outline:backpack
 
-  color: success
+  color: gray
 
 ---
 
 # Workshop One
 
-induction / stucture /
-schedules / handbook
+induction / stucture / schedules / handbook

@@ -10,5 +10,4 @@ icon:
 
 # Life Etc
 
-time / space / balance
-/ tips / techniques
+time / space / balance / tips / techniques

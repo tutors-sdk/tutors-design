@@ -10,5 +10,4 @@ icon:
 
 # Web Development
 
-html / css / layout / web apps /
-web frameworks / deployment
+html / css / layout / web apps / web frameworks / deployment
