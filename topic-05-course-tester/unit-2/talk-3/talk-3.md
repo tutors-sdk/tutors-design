@@ -2,8 +2,8 @@
 
 icon: 
 
-  type: icon-park-outline:computer
-
+  type: icon-park-outline:chip
+  
   color: success
 
 ---
