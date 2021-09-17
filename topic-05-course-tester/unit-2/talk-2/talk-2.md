@@ -8,6 +8,6 @@ icon:
 
 ---
 
-# Life Etc
+# ICT Skills One
 
-time / space / balance / tips / techniques
+Javascript / node / express / git / github / glitch
