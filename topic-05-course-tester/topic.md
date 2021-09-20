@@ -10,4 +10,4 @@ icon:
 
 # Testing Icons
 
-HDip in Comuter Science
+HDip in Comuter Science tester 
