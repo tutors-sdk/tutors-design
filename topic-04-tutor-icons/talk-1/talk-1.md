@@ -8,6 +8,6 @@ icon:
 
 ---
 
-# Fluent Icon Set
+# Shiney new icons
 
-Shiney new icons
+Using Icon Park Icons
