@@ -10,4 +10,4 @@ icon:
 
 # Fluent Icon Set
 
-Shiney new icon set. 
+Shiney new icons

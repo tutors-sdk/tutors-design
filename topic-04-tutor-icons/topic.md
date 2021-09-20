@@ -10,4 +10,4 @@ icon:
 
 # Icons
 
-New icon set & working with themes
+New icons for modules
