@@ -4,7 +4,7 @@ icon:
 
   type: icon-park-outline:backpack
 
-  color: gray
+  color: black
 
 ---
 
