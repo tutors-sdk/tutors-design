@@ -2,12 +2,12 @@
 
 icon: 
 
-  type: openmoji:card-index-dividers
+  type: openmoji:thinking-face
 
   color: pink
 
 ---
 
-# Testing Icons
+# Using Icon Park Icons
 
-HDip in Comuter Science tester 
+Tester site showing icons
