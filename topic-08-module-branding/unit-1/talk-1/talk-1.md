@@ -4,7 +4,7 @@ icon:
 
   type: ri:bubble-chart-fill
 
-  color: black
+  color: 009656
 
 ---
 
