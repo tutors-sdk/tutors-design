@@ -1,3 +1,13 @@
-# Units
+---
 
-This topic has 3 units - each unit has lectures + lab
+icon: 
+
+  type: openmoji:apple
+
+  color: pink
+
+---
+
+# Branding Modules
+
+Adding colour
