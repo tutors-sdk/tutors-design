@@ -4,7 +4,7 @@ icon:
 
   type: ri:database-2-fill
 
-  color: success
+  color: 1c4cd0
 
 ---
 

@@ -4,7 +4,7 @@ icon:
 
   type: ri:terminal-box-fill
   
-  color: success
+  color: db0421
 
 ---
 
