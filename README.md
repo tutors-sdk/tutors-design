@@ -4,7 +4,7 @@ A log of my research into accessibility and universal design in regards to the T
 
 Using the tutors generator for the module structure. The module is deployed here:
 
-- [Emma's Tester Course ](https://tutors-svelte.netlify.app/#/course/emmas-tester.netlify.app)
+- [Emma's Tester Course ](https://tutors-svelte.netlify.app/#/course/emmas-module.netlify.app)
 
 A local static version of the course can be built as follows:
 
