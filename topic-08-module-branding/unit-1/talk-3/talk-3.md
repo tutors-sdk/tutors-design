@@ -4,7 +4,7 @@ icon:
 
   type: ri:file-code-fill
 
-  color: success
+  color: 603980
 
 ---
 

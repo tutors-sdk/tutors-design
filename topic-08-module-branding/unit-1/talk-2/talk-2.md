@@ -4,7 +4,7 @@ icon:
 
   type: ri:plant-fill
 
-  color: success
+  color: 9d578a
 
 ---
 
