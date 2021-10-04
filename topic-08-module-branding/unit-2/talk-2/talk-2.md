@@ -4,7 +4,7 @@ icon:
 
   type: ri:git-branch-fill
 
-  color: efe060
+  color: FFEB00
 
 ---
 
