@@ -10,4 +10,4 @@ icon:
 
 # Developer Operations
 
-cloud computing / scripting / scaling / automation / monitoring
+51A3C3

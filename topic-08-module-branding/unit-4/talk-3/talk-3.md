@@ -10,4 +10,4 @@ icon:
 
 # Mobile App Development
 
-layouts / activities / resources / lifecycle / widgits / ux
+5CE6A1

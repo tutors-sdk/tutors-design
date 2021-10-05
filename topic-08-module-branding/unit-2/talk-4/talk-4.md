@@ -9,4 +9,5 @@ icon:
 ---
 
 # Database
-new look
+
+1C4CD0
