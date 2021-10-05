@@ -4,7 +4,7 @@ icon:
 
   type: ri:android-fill
   
-  color: success
+  color: 5ce6a1
 
 ---
 
