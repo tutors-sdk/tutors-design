@@ -4,7 +4,7 @@ icon:
 
   type: ri:computer-fill
 
-  color: success
+  color: deb05d
 
 ---
 

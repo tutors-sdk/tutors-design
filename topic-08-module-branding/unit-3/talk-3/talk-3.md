@@ -4,7 +4,7 @@ icon:
 
   type: ri:cloudy-2-fill
   
-  color: success
+  color: 51a3c3
 
 ---
 
