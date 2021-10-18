@@ -1,10 +1,12 @@
-# UI/UX Module
+# tutors-design
 
-A log of my research into accessibility and universal design in regards to the Tutors app.
+A log of my research into accessibility and universal design in regards to the Tutors app. 
+
+Redesign of the Tutors colour scheme and course icons.
 
 Using the tutors generator for the module structure. The module is deployed here:
 
-- [Emma's Tester Course ](https://tutors-svelte.netlify.app/#/course/emmas-module.netlify.app)
+- [Tutors-Design ](https://tutors-redesign.netlify.app/)
 
 A local static version of the course can be built as follows:
 
