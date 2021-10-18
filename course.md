@@ -8,6 +8,8 @@ icon:
 
 ---
 
-# Emma's Tester Course
+# Tutors-Design
 
-A short description of the course. Normally this will not be visible, unless the course is aggregated into a portfolio of modules
+A log of my research into accessibility and universal design in regards to the Tutors app.
+
+Redesign of the Tutors colour scheme and course icons.
