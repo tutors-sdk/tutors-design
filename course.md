@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: openmoji:full-moon-face
+  type: openmoji:artist-palette
 
   color: pink
 

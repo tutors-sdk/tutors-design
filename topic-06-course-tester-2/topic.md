@@ -2,12 +2,12 @@
 
 icon: 
 
-  type: openmoji:optical-disk
+  type: openmoji:2nd-place-medal
 
   color: pink
 
 ---
 
-# Using Remix Icons
+# Sample Course 2
 
-Tester site showing icons
+Tester site showing 'Remix' icons

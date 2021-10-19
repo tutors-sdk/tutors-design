@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: openmoji:eye-in-speech-bubble
+  type: openmoji:unlocked
 
   color: pink
 

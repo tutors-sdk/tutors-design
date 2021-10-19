@@ -2,7 +2,7 @@
 
 icon: 
 
-  type: openmoji:sparkler
+  type: openmoji:input-symbols
 
   color: pink
 
@@ -10,4 +10,4 @@ icon:
 
 # Icons
 
-New icons for modules
+Suggested new icons for modules

@@ -2,12 +2,12 @@
 
 icon: 
 
-  type: openmoji:sparkles
+  type: openmoji:details
 
   color: pink
 
 ---
 
-# Shiney new icons
+# New Icons Research
 
-Using Icon Park Icons
+Pdf with new icon suggestion using Icon Park Icons

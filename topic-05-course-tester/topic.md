@@ -2,12 +2,12 @@
 
 icon: 
 
-  type: openmoji:thinking-face
+  type: openmoji:1st-place-medal
 
   color: pink
 
 ---
 
-# Using Icon Park Icons
+# Sample Course 1
 
-Tester site showing icons
+Tester site showing 'Icon Park' icons
